@@ -18,7 +18,7 @@
             },
             {
                 "type": "action",
-                "label": "About",
+                "label": "Sobre o blog",
                 "url": "/about",
                 "style": "link"
             },
