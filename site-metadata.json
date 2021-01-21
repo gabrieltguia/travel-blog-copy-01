@@ -47,14 +47,6 @@
             },
             {
                 "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "DEV",
                 "url": "https://dev.to/",
                 "style": "icon",
