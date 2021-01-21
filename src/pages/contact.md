@@ -39,8 +39,8 @@ form_fields:
     input_type: checkbox
     name: consent
     label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
+      Estou ciente e concordo com as informações enviadas a fim de que eu possa
+      receber uma resposta.
 submit_label: Send Message
 template: contact
 ---
