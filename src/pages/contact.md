@@ -7,7 +7,7 @@ form_fields:
   - type: form_field
     input_type: text
     name: name
-    label: Name
+    label: Nome
     default_value: Seu nome
     is_required: true
   - type: form_field
