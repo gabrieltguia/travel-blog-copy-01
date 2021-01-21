@@ -26,7 +26,7 @@ form_fields:
     options:
       - Orçamento
       - Dúvidas gerais
-      - atroepR
+      - Reportar erro no site
   - type: form_field
     input_type: textarea
     name: message
