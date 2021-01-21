@@ -1,5 +1,5 @@
 ---
-title: Vale do Pati
+title: Vale do Pati - Sobre a travessia
 subtitle: >-
   A travessia do Vale do Pati, na Chapada Diamantina, é um desafio que compensa
   cada passo
