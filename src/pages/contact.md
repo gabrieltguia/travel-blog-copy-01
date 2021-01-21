@@ -39,5 +39,4 @@ form_fields:
 submit_label: Send Message
 template: contact
 ---
-
-To get in touch fill the form below.
+Para dúvidas/informações, preencha o formulário abaixo!
