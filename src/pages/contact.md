@@ -34,6 +34,7 @@ form_fields:
     name: message
     label: Mensagem
     default_value: Escreva aqui sua mensagem
+    is_required: true
   - type: form_field
     input_type: checkbox
     name: consent
