@@ -22,7 +22,7 @@ form_fields:
     input_type: select
     name: subject
     label: Assunto
-    default_value: Please select
+    default_value: Selecione
     options:
       - Error on the site
       - Sponsorship
