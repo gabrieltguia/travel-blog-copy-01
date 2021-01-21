@@ -10,6 +10,8 @@ form_fields:
     label: Nome
     default_value: Seu nome
     is_required: true
+    options:
+      - lorem-ipsum
   - type: form_field
     input_type: email
     name: email
