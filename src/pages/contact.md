@@ -24,7 +24,7 @@ form_fields:
     label: Assunto
     default_value: Selecione
     options:
-      - Error on the site
+      - Erro no site
       - Sponsorship
       - Other
   - type: form_field
