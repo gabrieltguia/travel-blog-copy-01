@@ -25,7 +25,7 @@ form_fields:
     default_value: Selecione
     options:
       - Orçamento
-      - Dúvida
+      - Dúvidas gerais
       - Other
   - type: form_field
     input_type: textarea
