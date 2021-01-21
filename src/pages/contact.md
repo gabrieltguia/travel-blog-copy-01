@@ -27,7 +27,7 @@ form_fields:
       - Orçamento
       - Dúvidas gerais
       - Reportar erro no site
-      - lorem-ipsum
+      - Reclamações/sugestões
   - type: form_field
     input_type: textarea
     name: message
