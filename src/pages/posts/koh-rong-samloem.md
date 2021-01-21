@@ -8,6 +8,7 @@ thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
 template: post
+thumb_img_path: /images/IMG_20181230_124249.jpg
 ---
 ## Lorem ipsum
 
