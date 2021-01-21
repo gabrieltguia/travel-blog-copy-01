@@ -6,7 +6,7 @@ form_action: /success
 form_fields:
   - type: form_field
     input_type: text
-    name: name
+    name: nome
     label: Nome
     default_value: Seu nome
     is_required: true
