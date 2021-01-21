@@ -2,7 +2,7 @@
 title: Vale do Pati - Sobre a travessia
 subtitle: >-
   A travessia do Vale do Pati, na Chapada Diamantina, é um desafio que compensa
-  cada passo
+  cada passo.
 date: '2021-01-21'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
