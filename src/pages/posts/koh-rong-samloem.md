@@ -1,6 +1,6 @@
 ---
 title: Vale do Pati
-subtitle: lorem-ipsum
+subtitle: U
 date: '2021-01-21'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
