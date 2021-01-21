@@ -33,7 +33,7 @@ form_fields:
     input_type: textarea
     name: message
     label: Mensagem
-    default_value: Your message
+    default_value: Escreva aqui sua mensagem
   - type: form_field
     input_type: checkbox
     name: consent
