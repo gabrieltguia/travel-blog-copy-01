@@ -28,6 +28,7 @@ form_fields:
       - Dúvidas gerais
       - Reportar erro no site
       - Reclamações/sugestões
+      - lorem-ipsum
   - type: form_field
     input_type: textarea
     name: message
